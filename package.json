@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {"name": "Mor GUEYE", "email": "gueyemor2009@gmail.com"},
   "dependencies": {
     "polkadot-web-identicon": "^1.0.5-rc2"
-  }
+  },
+  "license": "Apache-2.0"
 }
